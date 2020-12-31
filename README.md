@@ -2,10 +2,10 @@
 #### No. of Students V/s CGPA
 
 
-![alt text][logo]
+![Graph Plot](https://github.com/prady1900/TYBSC-CS-Result-Analysis/graph.png)
 
 
 
-[logo]: https://github.com/llGOKUll/TYBSC-CS-Result-Analysis/graph plot.png
+[logo]: https://github.com/prady1900/TYBSC-CS-Result-Analysis/graph.png
 
 
